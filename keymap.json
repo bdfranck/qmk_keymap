@@ -38,7 +38,7 @@
       "KC_DOT",
       "RSFT_T(KC_SLSH)",
       "KC_ESC",
-      "KC_MUTE",
+      "QK_BOOT",
       "KC_LGUI",
       "KC_BSPC",
       "LT(2,KC_TAB)",
