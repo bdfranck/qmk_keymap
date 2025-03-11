@@ -1,1 +1,1 @@
-#define TAPPING_TERM 5000
+#define TAPPING_TERM 150
