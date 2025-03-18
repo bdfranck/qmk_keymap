@@ -1,1 +1,2 @@
 #define TAPPING_TERM 150
+#define DEBOUNCE 10
