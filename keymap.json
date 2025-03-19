@@ -66,7 +66,7 @@
       "KC_DOWN",
       "KC_RGHT",
       "KC_TRNS",
-      "KC_PEQL",
+      "KC_EQL",
       "KC_4",
       "KC_5",
       "KC_6",
@@ -92,7 +92,7 @@
       "KC_0",
       "KC_TRNS",
       "KC_TRNS",
-      "MO(3)"
+      "KC_TRNS"
     ],
     [
       "KC_INS",
@@ -136,12 +136,12 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "MO(3)"
+      "KC_TRNS"
     ],
     [
-      "DT_PRNT",
-      "DT_UP",
-      "DT_DOWN",
+      "ANY(DT_PRNT)",
+      "ANY(DT_UP)",
+      "ANY(DT_DOWN)",
       "KC_NO",
       "KC_NO",
       "KC_NO",
